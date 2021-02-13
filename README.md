@@ -37,6 +37,6 @@ PS No. |  Name   |    Features    | Issuess Raised |Issues Resolved|No Test Case
 
 
 
-![Capture1](https://user-images.githubusercontent.com/78892310/107847741-25f2c300-6e14-11eb-8a42-5b334efcb29b.PNG)
+
 
 
