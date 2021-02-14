@@ -63,19 +63,16 @@ void factorial(int n)
 
 }
 
-
-
-
-
-
-
-
-
-
-
-
-
 int main()
 {
+    float x=-5, y = 0; 
+    int num=5;
+    
+    // Passing parameters 
+    
+    product(x, y); 
+    ratios(x,y);
+    factorial(num);
 
+    return 0; 
 }
