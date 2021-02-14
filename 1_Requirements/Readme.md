@@ -116,7 +116,7 @@ HLR by 99003737 Problem : Arithmetic Operations.
 LLR by 99003738 Problem : Complex Number.
 ![LLR-1](https://user-images.githubusercontent.com/78892310/107872766-86e0d080-6ed2-11eb-952a-1d6847a9cac6.png)
 
-LLR by 99003738 Problem : Arithmetic Operations.
+LLR by 99003737 Problem : Arithmetic Operations.
 ![LLR](https://user-images.githubusercontent.com/78848865/107885183-cdf4b300-6f1e-11eb-9f30-69d414e37cba.png)
 
 
