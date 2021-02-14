@@ -99,7 +99,8 @@ TABLE LINK
 ![HIGH-LEVEL-REQUIREMENT_001](https://user-images.githubusercontent.com/78853902/107848518-065e9900-6e1a-11eb-9fa0-287d8afcb05d.png)
 
  HLR by 99003738 Problem : Complex Number.
- [HLR_pdf.pdf](https://github.com/99003738/AppliedSDLC_N3/files/5977262/HLR_pdf.pdf)
+![HLR_pdf-1](https://user-images.githubusercontent.com/78892310/107872734-51d47e00-6ed2-11eb-9f3e-ee012f3c072f.png)
+
 
 
 
