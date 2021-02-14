@@ -23,5 +23,6 @@ int main()
         printf(" %f - %f= %.2f",operand1,operand2,b);
         break;
         case '*':
+        c = operand1*operand2; 
 
   
