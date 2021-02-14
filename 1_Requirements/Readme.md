@@ -24,16 +24,12 @@ Various key players present in global calculators market include Casio, Citizen,
    Proposed System
 ##In the proposed system we are trying to build a calculator which can have the features, which are frequently used in all domain of work.
 ##Motive:
-•	A calculator having very compact size for easy handling.
--
-•	This calculator is very specific in terms of operation or the features included.
--
-•	To reduce the over burden and complexity of function which hardly used by the users.
--
-•	Making the calculator specific to their role of operation.
--
-•	Reducing the overlapping of the function on the front panel.
--
+• A calculator having very compact size for easy handling.
+• This calculator is very specific in terms of operation or the features included.
+• To reduce the over burden and complexity of function which hardly used by the users.
+• Making the calculator specific to their role of operation.
+• Reducing the overlapping of the function on the front panel.
+
 Key Features:
 •	Keeping the front panel very simple and less button for easy to use.
 -	For this we are giving selection choices on the screen itself and can be navigate by the user through the navigation button.
@@ -111,3 +107,7 @@ TABLE LINK
 --- TBD in Tabular Format 
 -- ID | Description | Status (Implemented/Future)
 ![HLR_2](https://user-images.githubusercontent.com/78853902/107847731-0f4c6c00-6e14-11eb-918f-560e4cd2903d.png)
+
+LLR by 99003738 Problem : Complex Number.
+[LLR.pdf](https://github.com/99003738/AppliedSDLC_N3/files/5977274/LLR.pdf)
+
