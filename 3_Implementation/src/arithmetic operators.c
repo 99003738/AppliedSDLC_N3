@@ -16,7 +16,8 @@ int main()
         case '+':
         a = operand1+operand2;
         printf(" %f + %f= %.2f",operand1,operand2,a);
-        
+
         break;
+        case '-':
 
   
