@@ -39,8 +39,29 @@ void ratios(int a, int b)
         result=log(a)-log(b);
         printf("result of ratios is=%d ",result); 
     }
+}
+
+void factorial(int n)
+{
+    int i,fact=1;
     
-} 
+    if(n==1)
+    {
+	
+    printf("Factorial of a number is 1");
+    
+    }
+    else
+    {
+	
+    for(i=1; i<=n; i++)
+    {
+        fact=fact*i;
+    }
+    printf("Factorial of a number is= %d",fact);
+    }
+
+}
 
 
 
