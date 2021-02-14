@@ -24,5 +24,6 @@ int main()
         break;
         case '*':
         c = operand1*operand2; 
+        printf(" %f * %f= %.2f",operand1,operand2,c);
 
   
