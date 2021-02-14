@@ -12,7 +12,7 @@ Various key players present in global calculators market include Casio, Citizen,
 
 ![Description](Link to Pic)
 
-![Capture1](https://user-images.githubusercontent.com/78892310/107847741-25f2c300-6e14-11eb-8a42-5b334efcb29b.PNG)
+
 
 ## Cost and Features
 ![Description](Link to Pic)
