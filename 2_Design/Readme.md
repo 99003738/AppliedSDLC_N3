@@ -12,6 +12,11 @@
 
 ![state_diag](https://user-images.githubusercontent.com/78892310/107877459-9b34c580-6ef2-11eb-9894-130f0ce578ed.png)
 
+## HLR 99003737
+
+![ARITHMETHIC](https://user-images.githubusercontent.com/78848865/107886723-ddc4c500-6f27-11eb-9538-d5bcea79ac4c.jpg)
+
+
 
 
 # Behavioural Diagram
@@ -19,6 +24,11 @@
 ## HLR 99003738
 
 ![Sequence_diag (1)](https://user-images.githubusercontent.com/78892310/107875899-86ebcb00-6ee8-11eb-90a9-181b25102f48.png)
+
+## HLR 99003737
+
+![SEQUENCE](https://user-images.githubusercontent.com/78848865/107886984-0a2d1100-6f29-11eb-9881-a84ef719d277.jpg)
+
 
 ## Low Level Design 
 
@@ -34,4 +44,8 @@
 ### Complex Number
 
 ![struct_HLRAB001_L001](https://user-images.githubusercontent.com/78892310/107876987-73902e00-6eef-11eb-8cc0-32bde1fbc967.png)
+
+### arithmetic operations
+
+![LLR ARITHMETHIC](https://user-images.githubusercontent.com/78848865/107886752-0d73cd00-6f28-11eb-9d81-797718ec1162.jpg)
 
