@@ -69,7 +69,7 @@ void factorial(int n)
 int main()
 {
     float x=-5, y = 0; 
-    int num=5;
+    int num=6;
     
     // Passing parameters 
     
