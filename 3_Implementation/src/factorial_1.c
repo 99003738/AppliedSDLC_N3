@@ -1,7 +1,7 @@
 #include <stdio.h> 
 #include<math.h>
 
-//Logarithm Product Function
+          //Logarithm Product Function
 
 void product(int a, int b)
 {
@@ -21,6 +21,7 @@ void product(int a, int b)
     }
 }
 
+                //Logarithm Ratios Function
 
 void ratios(int a, int b) 
 {
@@ -40,6 +41,7 @@ void ratios(int a, int b)
         printf("result of ratios is=%d ",result); 
     }
 }
+              //Factorial Function
 
 void factorial(int n)
 {
@@ -62,6 +64,7 @@ void factorial(int n)
     }
 
 }
+                    // Main Function
 
 int main()
 {
