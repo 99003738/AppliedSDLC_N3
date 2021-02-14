@@ -10,12 +10,13 @@ Calculators are valuable instructional tools and are a necessary element in the 
 In the market dynamics part of global calculator market, the users in different sector such as IT, banking and financial institutions, accounting firm, educational institutions, hospitals, government, retail, general public etc. where the use of calculators is so much through which the market has grown so fast and there are immense opportunities to grow in several region across the globe. As per the analysis, the calculator market in North America, Eastern Europe, Japan has grown very rapidly due to the large number of established and key player industries such as information technology, banking and financial institutions, accounting firm, educational institutions and many more, where the use of different types calculators are very high. Also in the particular segment of students calculators have become an important part in their studies which has also become the growth factors in global calculators market.
 Various key players present in global calculators market include Casio, Citizen, Orpat, Canon, Flair, Texas Instruments, Hawlett-Packard Development, Liquidware, Orbit Research, Sharp Electronics, Desmos, Claro Calculators.
 
-![Description](Link to Pic)
 
 ![Calci-1](https://user-images.githubusercontent.com/78892310/107868520-e7f4ae00-6eaa-11eb-93a7-d88a6ca61dce.png)
 
 ## Cost and Features
-![Description](Link to Pic)
+
+![Table cost pdf-1](https://user-images.githubusercontent.com/78892310/107870319-24310a00-6ebd-11eb-8015-3803278b7d4a.png)
+
 
 ## Defining Our System
     -- TBD
