@@ -5,6 +5,12 @@
 
 
 ## Research
+
+Calculators are valuable instructional tools and are a necessary element in the modern mathematics classroom. Students need to use calculators frequently in order to develop confidence in the use of the machine. At what point in the learning of mathematical concepts should students be allowed to use calculators? Does calculator use have a negative impact on student acquisition of basic mathematical skills?
+In the market dynamics part of global calculator market, the users in different sector such as IT, banking and financial institutions, accounting firm, educational institutions, hospitals, government, retail, general public etc. where the use of calculators is so much through which the market has grown so fast and there are immense opportunities to grow in several region across the globe. As per the analysis, the calculator market in North America, Eastern Europe, Japan has grown very rapidly due to the large number of established and key player industries such as information technology, banking and financial institutions, accounting firm, educational institutions and many more, where the use of different types calculators are very high. Also in the particular segment of students calculators have become an important part in their studies which has also become the growth factors in global calculators market.
+Various key players present in global calculators market include Casio, Citizen, Orpat, Canon, Flair, Texas Instruments, Hawlett-Packard Development, Liquidware, Orbit Research, Sharp Electronics, Desmos, Claro Calculators.
+
+
 ![Description](Link to Pic)
 -- Content 
 ## Cost and Features
