@@ -30,6 +30,10 @@ void ratios(int a, int b)
     {
         printf("ERROR");
     }
+    else if(b==0)
+    {
+        printf("ERROR);
+    }
    double result;
    result=log(a)-log(b);
     printf("result of ratios is=%d ",result); 
