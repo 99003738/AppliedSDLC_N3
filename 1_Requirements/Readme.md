@@ -37,6 +37,10 @@ Key Features:
 •	Operation specific.
 -	Below table shows that section wise operation available inside the calculator.
 
+TABLE LINK
+![modified_proposed pdf-1](https://user-images.githubusercontent.com/78892310/107871876-aa544d00-6ecb-11eb-9bc8-2d2cf9f9e3ec.png)
+
+
 ## SWOT ANALYSIS
 ![SWOT-Sample](Link to Pic).
 
