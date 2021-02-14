@@ -15,9 +15,9 @@ void product(int a, int b)
     }
     else
     {
-   double result;
-   result=log(a)+log(b);
-    printf("result of product is=%d ",result); 
+          double result;
+          result=log(a)+log(b);
+          printf("result of product is=%d ",result); 
     }
 } 
 
@@ -26,6 +26,10 @@ void product(int a, int b)
 
 void ratios(int a, int b) 
 { 
+    if(a==0)
+    {
+        printf("ERROR");
+    }
    double result;
    result=log(a)-log(b);
     printf("result of ratios is=%d ",result); 
