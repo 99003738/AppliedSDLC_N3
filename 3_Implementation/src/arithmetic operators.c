@@ -6,3 +6,4 @@ int main()
      
     char operators;
     printf("ENTER THE OPERATOR (+ , - , * , / ) :  ");
+    scanf("%c",&operators);
