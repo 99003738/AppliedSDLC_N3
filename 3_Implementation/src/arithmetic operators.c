@@ -31,5 +31,6 @@ int main()
         printf(" %f / %f= %.2f",operand1,operand2,d);
         break;
         default:
+        printf("operator is not correct");
 
   
