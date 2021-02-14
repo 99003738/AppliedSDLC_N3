@@ -14,3 +14,4 @@ int main()
 
     switch(operators){
         case '+':
+        a = operand1+operand2;
