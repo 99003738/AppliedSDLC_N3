@@ -7,3 +7,7 @@ int main()
     char operators;
     printf("ENTER THE OPERATOR (+ , - , * , / ) :  ");
     scanf("%c",&operators);
+
+    printf("ENTER THE TWO OPERANDS :  ");
+    
+    scanf("%f %f",&operand1,&operand2);
