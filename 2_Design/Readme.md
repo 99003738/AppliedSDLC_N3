@@ -5,7 +5,10 @@
 --- TBD Structural and Behavioural Diagram
 ![HighLevelStructuralDiagram](Link to Pic)
 
-![HLR Str](https://user-images.githubusercontent.com/78853902/107871402-32842380-6ec7-11eb-9e7a-32988dde58c7.png)
+
+![HLR Str (1)](https://user-images.githubusercontent.com/78853902/107876939-23b16700-6eef-11eb-850a-561ee315f3dc.png)
+
+
 
 ![HighLevelBehaviouralDiagram](Link to Pic)
 
