@@ -1,6 +1,8 @@
 #include <stdio.h> 
 #include<math.h>
 
+//Logarithm Product Function
+
 void product(int a, int b)
 {
     if(a==0)
@@ -17,6 +19,12 @@ void product(int a, int b)
           result=log(a)+log(b);
           printf("result of product is=%d ",result); 
     }
+}
+
+
+void ratios(int a, int b) 
+{
+    
 }
 
 
