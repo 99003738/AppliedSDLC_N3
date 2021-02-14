@@ -24,7 +24,14 @@ void product(int a, int b)
 
 void ratios(int a, int b) 
 {
-    
+    if(a==0)
+    {
+        printf("ERROR");
+    }
+    else if(b==0)
+    {
+        printf("ERROR");
+    }
 }
 
 
