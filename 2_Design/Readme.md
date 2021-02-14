@@ -5,14 +5,13 @@
 --- TBD Structural and Behavioural Diagram
 ![HighLevelStructuralDiagram](Link to Pic)
 
-HIGH LEVEL DIAGRAM 
-99003738 Behavioural Diagram
-![Sequence_diag (1)](https://user-images.githubusercontent.com/78892310/107875899-86ebcb00-6ee8-11eb-90a9-181b25102f48.png)
-
-
 ![HLR Str](https://user-images.githubusercontent.com/78853902/107871402-32842380-6ec7-11eb-9e7a-32988dde58c7.png)
 
 ![HighLevelBehaviouralDiagram](Link to Pic)
+
+HIGH LEVEL DIAGRAM 
+99003738 Behavioural Diagram
+![Sequence_diag (1)](https://user-images.githubusercontent.com/78892310/107875899-86ebcb00-6ee8-11eb-90a9-181b25102f48.png)
 
 ## Low Level Design 
 
