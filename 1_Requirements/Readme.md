@@ -110,5 +110,6 @@ TABLE LINK
 ![HLR_2](https://user-images.githubusercontent.com/78853902/107847731-0f4c6c00-6e14-11eb-918f-560e4cd2903d.png)
 
 LLR by 99003738 Problem : Complex Number.
-[LLR.pdf](https://github.com/99003738/AppliedSDLC_N3/files/5977274/LLR.pdf)
+![LLR-1](https://user-images.githubusercontent.com/78892310/107872766-86e0d080-6ed2-11eb-952a-1d6847a9cac6.png)
+
 
