@@ -17,6 +17,8 @@ Various key players present in global calculators market include Casio, Citizen,
 ## Cost and Features
 ![Description](Link to Pic)
 
+COST AND FEATURE:
+
 ## Defining Our System
     -- TBD
 ## SWOT ANALYSIS
