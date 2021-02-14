@@ -11,3 +11,5 @@ int main()
     printf("ENTER THE TWO OPERANDS :  ");
     
     scanf("%f %f",&operand1,&operand2);
+
+    switch(operators){
