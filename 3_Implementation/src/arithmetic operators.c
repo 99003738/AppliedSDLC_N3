@@ -19,5 +19,6 @@ int main()
 
         break;
         case '-':
+        b = operand1-operand2;
 
   
