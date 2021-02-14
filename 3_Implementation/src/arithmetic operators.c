@@ -29,5 +29,6 @@ int main()
         case '/':
         d = operand1/operand2;
         printf(" %f / %f= %.2f",operand1,operand2,d);
+        break;
 
   
