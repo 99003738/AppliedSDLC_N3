@@ -19,7 +19,24 @@ Various key players present in global calculators market include Casio, Citizen,
 
 
 ## Defining Our System
-    -- TBD
+   Proposed System
+In the proposed system we are trying to build a calculator which can have the features, which are frequently used in all domain of work.
+Motive:
+•	A calculator having very compact size for easy handling.
+•	This calculator is very specific in terms of operation or the features included.
+•	To reduce the over burden and complexity of function which hardly used by the users.
+•	Making the calculator specific to their role of operation.
+•	Reducing the overlapping of the function on the front panel.
+Key Features:
+•	Keeping the front panel very simple and less button for easy to use.
+-	For this we are giving selection choices on the screen itself and can be navigate by the user through the navigation button.
+•	Color LCD screen.
+-	To make the calculator very attractive and help to distinguish between the different options available on the screen.
+•	Sequence Input
+-	This feature makes the calculator very easy to use in terms of giving inputs through the panel.
+•	Operation specific.
+-	Below table shows that section wise operation available inside the calculator.
+
 ## SWOT ANALYSIS
 ![SWOT-Sample](Link to Pic).
 
