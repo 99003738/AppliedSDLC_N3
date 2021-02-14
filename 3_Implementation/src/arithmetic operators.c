@@ -15,3 +15,5 @@ int main()
     switch(operators){
         case '+':
         a = operand1+operand2;
+        printf(" %f + %f= %.2f",operand1,operand2,a);
+        
