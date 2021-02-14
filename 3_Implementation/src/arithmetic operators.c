@@ -13,3 +13,4 @@ int main()
     scanf("%f %f",&operand1,&operand2);
 
     switch(operators){
+        case '+':
