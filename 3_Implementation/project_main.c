@@ -1,4 +1,5 @@
 #include <calculator_operations.h>
+#include <Complex.h>
 
 /* Status of the operation requested */
 #define VALID   (1)
@@ -12,7 +13,7 @@ int calculator_operand1 = 0;
 int calculator_operand2 = 0;
 
 /* Valid operations */
-enum operations{ ADD=1, SUBTRACT, MULTIPLY, DIVIDE, EXIT };
+enum operations{ ADD=1, SUBTRACT, MULTIPLY, DIVIDE, Complex,EXIT };
 
 /* Display the menu of operations supported */
 void calculator_menu(void);
@@ -33,11 +34,15 @@ int main(int argc, char *argv[])
 void calculator_menu(void)
 {
     printf("\nAvailable Operations\n");
-    printf("\n1. Add\n2. Subtract\n3. Multiply\n4. Divide\n5. Exit");
+    printf("\n1. Add\n2. Subtract\n3. Multiply\n4. Divide\n5. Complex\n6. Exit");
     printf("\n\tEnter your choice\n");
    
-     __fpurge(stdin);
+    
     scanf("%d", &calculator_operation);
+    if (Complex == calculator_operation)
+    {
+        input();
+    }
 
     if(EXIT == calculator_operation)
     {
@@ -47,14 +52,15 @@ void calculator_menu(void)
 
     if(INVALID != valid_operation(calculator_operation))
     {
+        
         printf("\n\tEnter your Numbers with space between them\n");
-        __fpurge(stdin);
+       
         scanf("%d %d", &calculator_operand1, &calculator_operand2);
     }
     else
     {
         printf("\n\t---Wrong choice---\nEnter to continue\n");
-        __fpurge(stdin);
+        
         getchar();
         return;
         
@@ -67,7 +73,7 @@ void calculator_menu(void)
             calculator_operand2,
             add(calculator_operand1, calculator_operand2));
             
-            __fpurge(stdin);
+            
             getchar();
             break;
         case SUBTRACT:
@@ -75,8 +81,7 @@ void calculator_menu(void)
             calculator_operand1, 
             calculator_operand2,
             subtract(calculator_operand1, calculator_operand2));
-            
-            __fpurge(stdin);
+          
             getchar();
             break;
         case MULTIPLY:
@@ -85,7 +90,7 @@ void calculator_menu(void)
             calculator_operand2,
             multiply(calculator_operand1, calculator_operand2));
             
-            __fpurge(stdin);
+           
             getchar();
             break;
         case DIVIDE:
@@ -94,7 +99,7 @@ void calculator_menu(void)
             calculator_operand2,
             divide(calculator_operand1, calculator_operand2));
             
-            __fpurge(stdin);
+           
             getchar();
             break;
         case 5:
