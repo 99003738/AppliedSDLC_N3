@@ -1,6 +1,8 @@
 # Requirements
 ## Introduction
- --- TBD   
+    
+ Now days calculator is contributing in each and every one of us life, some of us using for very basic arithmetic calculation and some of using for calculating such a complex problem which take so many hours to calculate by manually. Hence in market there are various categories of calculator available based on your requirements. Some of them are made to be very specific in term of their using and some of them are used by different-different class of people who are using it. Like students, graduate students, business man, local shops and etc. If define this device in very short then we can say it is a device that performs arithmetic operations on numbers. The simplest calculators can do only addition, subtraction, multiplication, and division. More sophisticated calculators can handle exponential operations, roots, logarithms, trigonometric functions, and hyperbolic functions. Internally, some calculators actually perform all of these functions by repeated processes of addition. Most calculators these days require electricity to operate. Portable, battery-powered calculators are popular with engineers and engineering students.
+
 
 ## Research
 ![Description](Link to Pic)
