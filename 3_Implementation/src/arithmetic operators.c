@@ -27,5 +27,6 @@ int main()
         printf(" %f * %f= %.2f",operand1,operand2,c);
         break;
         case '/':
+        d = operand1/operand2;
 
   
