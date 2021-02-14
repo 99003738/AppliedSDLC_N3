@@ -104,6 +104,16 @@ TABLE LINK
 HLR by 99003737 Problem : Arithmetic Operations.
 ![HLR](https://user-images.githubusercontent.com/78848865/107885089-40b15e80-6f1e-11eb-80d3-bf0619376c1c.png)
 
+HLR by 99003743 Problem : POWERS AND ROOTS
+![HLR01](https://user-images.githubusercontent.com/78868680/107905487-c102ae80-6f74-11eb-8ffe-e91b13e3eac7.PNG)
+
+HLR by 99003743 Problem : PLOTTING BASIC GRAPH
+![HLR02](https://user-images.githubusercontent.com/78868680/107905830-a1b85100-6f75-11eb-830f-8097a7c664b0.PNG)
+
+
+
+
+
 
 
 
@@ -127,5 +137,9 @@ LLR BY 99003743 PROBLEM: POWERS
 
 LLR by 99003743 Problem : SQUARE ROOT
 ![LLR2](https://user-images.githubusercontent.com/78868680/107904902-2b1a5400-6f73-11eb-88f4-60e59a6f8612.PNG)
+
+LLR by 99003743 Problem : CUBE ROOT
+![LLR3](https://user-images.githubusercontent.com/78868680/107905031-8c422780-6f73-11eb-8a32-091d01e0aca5.PNG)
+
 
 
