@@ -5,7 +5,7 @@
 void input(void)
 {
     printf("Enter the complex number with format re1 im1 re2 im2");
-    scanf(" f% f% f% f% ", &re1,&im1, &re2, &im2);
+    scanf(" f% f% f% f% ", &re1, &im1, &re2, &im2);
     printf(" Choose your option :");
     option();
 }
@@ -17,6 +17,10 @@ int option(int a)
     printf("\n1. Add\n2. Subtract\n3. Multiply\n4. Divide\n5. Exit");
     printf("\n\tEnter your choice\n");
     scanf("%d", &Com_Option);
+    if ( 1 == Com_Option)
+    {
+        Com_add(re1,im1,re2,im2);
+    }
 
 
 }
