@@ -24,3 +24,6 @@
 
 ## TESTCASE 43
 ![TC01](https://user-images.githubusercontent.com/78868680/107909231-c87a8580-6f7d-11eb-8e17-671139b1d494.PNG)
+
+## TESTCASE 43 ROOTS
+![TC02](https://user-images.githubusercontent.com/78868680/107909395-1a231000-6f7e-11eb-851c-0e528d4e8608.PNG)
