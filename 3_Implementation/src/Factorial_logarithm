@@ -34,13 +34,17 @@ void ratios(int a, int b)
     {
         printf("ERROR);
     }
-   double result;
-   result=log(a)-log(b);
-    printf("result of ratios is=%d ",result); 
+    else
+    {
+        double result;
+        result=log(a)-log(b);
+        printf("result of ratios is=%d ",result); 
+    }
+    
 } 
 
 
-                          //Factorial Function
+                           //Factorial Function
 
 void factorial(int n)
 {
