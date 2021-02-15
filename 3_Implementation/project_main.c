@@ -1,4 +1,5 @@
 #include <calculator_operations.h>
+#include <Complex.h>
 
 /* Status of the operation requested */
 #define VALID   (1)
@@ -12,7 +13,7 @@ int calculator_operand1 = 0;
 int calculator_operand2 = 0;
 
 /* Valid operations */
-enum operations{ ADD=1, SUBTRACT, MULTIPLY, DIVIDE, EXIT };
+enum operations{ ADD=1, SUBTRACT, MULTIPLY, DIVIDE, Complex,EXIT };
 
 /* Display the menu of operations supported */
 void calculator_menu(void);
