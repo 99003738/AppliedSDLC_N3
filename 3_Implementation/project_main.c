@@ -46,13 +46,13 @@ void calculator_menu(void)
         exit(0);
     }
 
-
-    if(INVALID != valid_operation(calculator_operation))
-    {
-        if (Complex == calculator_operation)
+if (5 == valid_operation(calculator_operation))
     {
         input();
     } 
+    if(INVALID != valid_operation(calculator_operation))
+    {
+        
         printf("\n\tEnter your Numbers with space between them\n");
        
         scanf("%d %d", &calculator_operand1, &calculator_operand2);
