@@ -46,9 +46,9 @@ void calculator_menu(void)
         exit(0);
     }
 
-if (5 == valid_operation(calculator_operation))
+    if (5 == calculator_operation)
     {
-        input();
+        inp();
     } 
     if(INVALID != valid_operation(calculator_operation))
     {
