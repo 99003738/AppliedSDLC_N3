@@ -8,6 +8,10 @@
 
 ![HLR Str (1)](https://user-images.githubusercontent.com/78853902/107876939-23b16700-6eef-11eb-850a-561ee315f3dc.png)
 
+## HLR3743
+![HLR CLASS](https://user-images.githubusercontent.com/78868680/107922093-86f5d480-6f95-11eb-82b4-969f9a93993d.PNG)
+
+
 ## HLR 99003738
 
 ![state_diag](https://user-images.githubusercontent.com/78892310/107877459-9b34c580-6ef2-11eb-9894-130f0ce578ed.png)
@@ -17,7 +21,7 @@
 ![ARITHMETHIC](https://user-images.githubusercontent.com/78848865/107886723-ddc4c500-6f27-11eb-9538-d5bcea79ac4c.jpg)
  
 ## HLR99003743
-![HLR DESIGN](https://user-images.githubusercontent.com/78868680/107906030-2d31e200-6f76-11eb-82ff-5fe75b927d32.PNG)
+![HLR DESIGN](https://user-images.githubusercontent.com/78868680/107906030-2d31e200-6f76-11eb-82ff-5fe75b927d32.PNG) // high level design
 
 
 
@@ -33,7 +37,7 @@
 
 ![SEQUENCE](https://user-images.githubusercontent.com/78848865/107886984-0a2d1100-6f29-11eb-9881-a84ef719d277.jpg)
 
-## HLR 99003743
+## HLR 993743
 ![HLR SEQ](https://user-images.githubusercontent.com/78868680/107907119-d11c8d00-6f78-11eb-92ad-097fb910db4e.PNG)
 
 
@@ -67,6 +71,7 @@
  
   ### PLOTTING BASIC GRAPH 43
   ![SEQ 3](https://user-images.githubusercontent.com/78868680/107907759-88fe6a00-6f7a-11eb-9dfe-5f27e8ca0f6a.PNG)
+  
 
 
 
