@@ -1,10 +1,11 @@
 #include <stdio.h> 
-#include<math.h>
+#include <math.h>
+#include <calculator_operations.h>
 
-                        //Logarithm Product Function 
- 
-void product(int a, int b) 
-{ 
+          //Logarithm Product Function
+
+void product(int a, int b)
+{
     if(a==0)
     {
         printf("ERROR");
@@ -19,13 +20,12 @@ void product(int a, int b)
           result=log(a)+log(b);
           printf("result of product is=%d ",result); 
     }
-} 
+}
 
-
-                        //Logarithm Ratio Function
+                //Logarithm Ratios Function
 
 void ratios(int a, int b) 
-{ 
+{
     if(a==0)
     {
         printf("ERROR");
@@ -34,17 +34,15 @@ void ratios(int a, int b)
     {
         printf("ERROR");
     }
-    else
+    
+     else
     {
         double result;
         result=log(a)-log(b);
         printf("result of ratios is=%d ",result); 
     }
-    
-} 
-
-
-                           //Factorial Function
+}
+              //Factorial Function
 
 void factorial(int n)
 {
@@ -65,21 +63,18 @@ void factorial(int n)
     }
     printf("Factorial of a number is= %d",fact);
     }
+
 }
+                    // Main Function
 
+int fact_input(void);
+{
 
-
-                          // Main Function
-
-int main(void) 
-{ 
-    float x=-5, y = 0; 
-    int num=1;
+    int num;
     
     // Passing parameters 
-    
-    product(x, y); 
-    ratios(x,y);
+    printf("Enter the number for factorial : ");
+    scanf(" %d",num);
     factorial(num);
 
     return 0; 
