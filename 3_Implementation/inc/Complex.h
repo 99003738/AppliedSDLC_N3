@@ -6,11 +6,11 @@
 
 
 
-void inp(void);
-int  option(void);
-float Com_add(float re1, float re2, float im1, float im2);
-float Com_sub(float re1, float re2, float im1, float im2);
-float Com_mul(float re1, float re2, float im1, float im2);
+// void inp(void);
+//int  option(void);
+//float Com_add(float re1, float re2, float im1, float im2);
+//float Com_sub(float re1, float re2, float im1, float im2);
+//float Com_mul(float re1, float re2, float im1, float im2);
 
 
 #endif 
