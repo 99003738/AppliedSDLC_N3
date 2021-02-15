@@ -125,5 +125,7 @@ LLR by 99003743 Problem : Powers
 LLR BY 99003743 PROBLEM: POWERS
 ![LLR](https://user-images.githubusercontent.com/78868680/107904359-9400cc80-6f71-11eb-9120-c890807a7de5.PNG)
 
+LLR by 99003743 Problem : SQUARE ROOT
+![LLR2](https://user-images.githubusercontent.com/78868680/107904902-2b1a5400-6f73-11eb-88f4-60e59a6f8612.PNG)
 
 
