@@ -125,6 +125,8 @@ LLR by 99003737 Problem : Arithmetic Operations.
 LLR by 99003743 Problem : Powers
 
 
+LLR BY 99003743 PROBLEM: POWERS
+![LLR](https://user-images.githubusercontent.com/78868680/107904359-9400cc80-6f71-11eb-9120-c890807a7de5.PNG)
 
 
 
