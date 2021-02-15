@@ -5,8 +5,6 @@
 #include <stdlib.h>
 
 
-float re1,im1,re2,im2;
-int Com_Option;
 
 void inp(void);
 int  option(void);
