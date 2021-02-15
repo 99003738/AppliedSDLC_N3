@@ -17,7 +17,7 @@
 ![ARITHMETHIC](https://user-images.githubusercontent.com/78848865/107886723-ddc4c500-6f27-11eb-9538-d5bcea79ac4c.jpg)
  
 ## HLR99003743
-![HLR DESIGN](https://user-images.githubusercontent.com/78868680/107906030-2d31e200-6f76-11eb-82ff-5fe75b927d32.PNG)
+![HLR DESIGN](https://user-images.githubusercontent.com/78868680/107906030-2d31e200-6f76-11eb-82ff-5fe75b927d32.PNG) // high level design
 
 
 
