@@ -38,7 +38,7 @@ void calculator_menu(void)
     printf("\n\tEnter your choice\n");
    
     
-    scanf("%d", &calculator_operation);
+    scanf(" %d", &calculator_operation);
     
     if(EXIT == calculator_operation)
     {
@@ -46,7 +46,7 @@ void calculator_menu(void)
         exit(0);
     }
 
-    if (5 == calculator_operation)
+    if (Complex == calculator_operation)
     {
         inp();
     } 
