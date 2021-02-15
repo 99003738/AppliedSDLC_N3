@@ -67,6 +67,7 @@
  
   ### PLOTTING BASIC GRAPH 43
   ![SEQ 3](https://user-images.githubusercontent.com/78868680/107907759-88fe6a00-6f7a-11eb-9dfe-5f27e8ca0f6a.PNG)
+  
 
 
 
