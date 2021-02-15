@@ -11,3 +11,7 @@ double num, root;
 
     /* Calculate square root of num */
     root = sqrt(num);
+       printf("Square root of %.2lf = %.2lf", num, root);
+
+    return 0;
+}
