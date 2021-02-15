@@ -38,18 +38,18 @@ void calculator_menu(void)
     printf("\n\tEnter your choice\n");
    
     
-    scanf("%d", &calculator_operation);
-    if (Complex == calculator_operation)
-    {
-        input();
-    }
-
+    scanf(" %d", &calculator_operation);
+    
     if(EXIT == calculator_operation)
     {
         printf("\nThank you. Exiting the Application\n");
         exit(0);
     }
 
+    if (Complex == calculator_operation)
+    {
+        inp();
+    } 
     if(INVALID != valid_operation(calculator_operation))
     {
         
