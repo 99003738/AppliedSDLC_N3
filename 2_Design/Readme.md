@@ -58,10 +58,10 @@
 ![LLR ARITHMETHIC](https://user-images.githubusercontent.com/78848865/107886752-0d73cd00-6f28-11eb-9d81-797718ec1162.jpg)
 
 
- ### POWER OF NUMBER
+ ### POWER OF NUMBER 43
  ![SEQ 1](https://user-images.githubusercontent.com/78868680/107907567-0ecde580-6f7a-11eb-812b-50ecdefec926.PNG)
  
- ### ROOTS OF NUMBER
+ ### ROOTS OF NUMBER 43
  ![SEQ 2](https://user-images.githubusercontent.com/78868680/107907666-49d01900-6f7a-11eb-948e-964bbffd5cec.PNG)
 
 
