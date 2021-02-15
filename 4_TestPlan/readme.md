@@ -13,7 +13,9 @@
 
 ## Test Case for Complex Number.
 ![Test Case-1](https://user-images.githubusercontent.com/78892310/107903981-93b40180-6f70-11eb-844d-dd7828db52f3.png)
-![Test Cases Factorial](https://user-images.githubusercontent.com/78853902/107877993-bc4ae580-6ef5-11eb-9963-fa9d18cb9e31.png)
+
+![Test Cases Factorial](https://user-images.githubusercontent.com/78853902/107913659-d5e83d80-6f86-11eb-8841-f14a6a2f05a2.png)
+
 
 ![Test Case1 Logarithm-0](https://user-images.githubusercontent.com/78853902/107878701-6fb5d900-6efa-11eb-8933-0584629ac564.png)
 ![Test Case1 Logarithm-1](https://user-images.githubusercontent.com/78853902/107878711-7cd2c800-6efa-11eb-9aa8-582b96c66081.png)
