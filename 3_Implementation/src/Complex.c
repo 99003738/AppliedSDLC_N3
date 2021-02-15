@@ -1,5 +1,5 @@
 #include "Complex.h"
-
+#include <calculator_operations.h>
 
 
 void input(void)
@@ -36,9 +36,9 @@ float Com_add(float re1, float im1, float re2, float im2)
 }
 float Com_sub(float re1, float re2, float im1, float im2)
 {
-
+return 0;
 }
 float Com_mul(float re1, float re2, float im1, float im2)
 {
-    
+return 0 ;
 }
