@@ -25,7 +25,7 @@
 ![TEST HLR](https://user-images.githubusercontent.com/78868680/107921409-798c1a80-6f94-11eb-966b-68514969dd19.PNG)
 
 
-### TESTCASES 3743
+### TESTCASES 3743 //testcase for LLr
 ![test cases](https://user-images.githubusercontent.com/78868680/107908009-180b8200-6f7b-11eb-8780-52387bb01fb0.jpg)
 
 ## TESTCASE 743 //testcase for power
