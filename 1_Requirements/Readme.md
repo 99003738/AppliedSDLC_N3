@@ -103,7 +103,8 @@ TABLE LINK
 
 HLR by 99003737 Problem : Arithmetic Operations.
 ![HLR](https://user-images.githubusercontent.com/78848865/107885089-40b15e80-6f1e-11eb-80d3-bf0619376c1c.png)
-
+ 
+ ## HLR BY 3743
 HLR by 99003743 Problem : POWERS AND ROOTS
 ![HLR01](https://user-images.githubusercontent.com/78868680/107905487-c102ae80-6f74-11eb-8ffe-e91b13e3eac7.PNG)
 
@@ -129,7 +130,8 @@ LLR by 99003738 Problem : Complex Number.
 LLR by 99003737 Problem : Arithmetic Operations.
 ![LLR](https://user-images.githubusercontent.com/78848865/107885183-cdf4b300-6f1e-11eb-9f30-69d414e37cba.png)
 
-LLR by 99003743 Problem : Powers
+
+LLR by 99003743 Problem : LLR
 ![LOW LEVEL REQUIREMENTS](https://user-images.githubusercontent.com/78868680/107902609-facfb700-6f6c-11eb-896a-10989d7c9d48.jpg)
 
 LLR BY 99003743 PROBLEM: POWERS
