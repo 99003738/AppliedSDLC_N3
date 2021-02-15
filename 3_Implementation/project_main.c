@@ -39,20 +39,20 @@ void calculator_menu(void)
    
     
     scanf("%d", &calculator_operation);
-    if (Complex == calculator_operation)
-    {
-        input();
-    }
-
+    
     if(EXIT == calculator_operation)
     {
         printf("\nThank you. Exiting the Application\n");
         exit(0);
     }
 
+
     if(INVALID != valid_operation(calculator_operation))
     {
-        
+        if (Complex == calculator_operation)
+    {
+        input();
+    } 
         printf("\n\tEnter your Numbers with space between them\n");
        
         scanf("%d %d", &calculator_operand1, &calculator_operand2);
