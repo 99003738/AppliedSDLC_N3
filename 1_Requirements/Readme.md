@@ -104,6 +104,10 @@ TABLE LINK
 HLR by 99003737 Problem : Arithmetic Operations.
 ![HLR](https://user-images.githubusercontent.com/78848865/107885089-40b15e80-6f1e-11eb-80d3-bf0619376c1c.png)
 
+HLR by 99003743 Problem : POWERS AND ROOTS
+![HLR01](https://user-images.githubusercontent.com/78868680/107905487-c102ae80-6f74-11eb-8ffe-e91b13e3eac7.PNG)
+
+
 
 
 
