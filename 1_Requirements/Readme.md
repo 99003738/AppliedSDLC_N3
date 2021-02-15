@@ -47,6 +47,9 @@ TABLE LINK
 ## SWOT ANALYSIS
 ![SWOT-Sample](Link to Pic).
 
+## REQUIREMENTS
+![REQ](https://user-images.githubusercontent.com/78868680/107912386-70934d00-6f84-11eb-8958-56de9756f969.PNG)
+
 # 4W&#39;s and 1&#39;H
 
 ## Who:
