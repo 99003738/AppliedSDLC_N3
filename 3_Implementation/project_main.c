@@ -39,6 +39,10 @@ void calculator_menu(void)
    
     
     scanf("%d", &calculator_operation);
+    if (Complex == calculator_operation)
+    {
+        input();
+    }
 
     if(EXIT == calculator_operation)
     {
