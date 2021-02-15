@@ -21,3 +21,6 @@
 
 ### TESTCASES 3743
 ![test cases](https://user-images.githubusercontent.com/78868680/107908009-180b8200-6f7b-11eb-8780-52387bb01fb0.jpg)
+
+## TESTCASE 43
+![TC01](https://user-images.githubusercontent.com/78868680/107909231-c87a8580-6f7d-11eb-8e17-671139b1d494.PNG)
