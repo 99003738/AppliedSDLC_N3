@@ -1,8 +1,9 @@
-#include "Complex.h"
+#include <Complex.h>
+float re1,im1,re2,im2;
+int Com_Option;
 
 
-
-void input(void)
+void inp(void)
 {
     printf("Enter the complex number with format re1 im1 re2 im2");
     scanf(" f% f% f% f% ", &re1, &im1, &re2, &im2);
@@ -36,9 +37,9 @@ float Com_add(float re1, float im1, float re2, float im2)
 }
 float Com_sub(float re1, float re2, float im1, float im2)
 {
-
+return 0;
 }
 float Com_mul(float re1, float re2, float im1, float im2)
 {
-    
+return 0 ;
 }

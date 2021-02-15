@@ -47,6 +47,9 @@ TABLE LINK
 ## SWOT ANALYSIS
 ![SWOT-Sample](Link to Pic).
 
+## REQUIREMENTS
+![REQ](https://user-images.githubusercontent.com/78868680/107912386-70934d00-6f84-11eb-8958-56de9756f969.PNG)
+
 # 4W&#39;s and 1&#39;H
 
 ## Who:
@@ -108,7 +111,7 @@ HLR by 99003737 Problem : Arithmetic Operations.
 HLR by 99003743 Problem : POWERS AND ROOTS
 ![HLR01](https://user-images.githubusercontent.com/78868680/107905487-c102ae80-6f74-11eb-8ffe-e91b13e3eac7.PNG)
 
-HLR by 99003743 Problem : PLOTTING BASIC GRAPH
+HLR by 99003743 Problem : PLOTTING BASICGRAPH
 ![HLR02](https://user-images.githubusercontent.com/78868680/107905830-a1b85100-6f75-11eb-830f-8097a7c664b0.PNG)
 
 

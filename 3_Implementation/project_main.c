@@ -38,7 +38,7 @@ void calculator_menu(void)
     printf("\n\tEnter your choice\n");
    
     
-    scanf("%d", &calculator_operation);
+    scanf(" %d", &calculator_operation);
     
     if(EXIT == calculator_operation)
     {
@@ -46,13 +46,13 @@ void calculator_menu(void)
         exit(0);
     }
 
-
+    if (Complex == calculator_operation)
+    {
+        inp();
+    } 
     if(INVALID != valid_operation(calculator_operation))
     {
-        if (Complex == calculator_operation)
-    {
-        input();
-    } 
+        
         printf("\n\tEnter your Numbers with space between them\n");
        
         scanf("%d %d", &calculator_operand1, &calculator_operand2);
