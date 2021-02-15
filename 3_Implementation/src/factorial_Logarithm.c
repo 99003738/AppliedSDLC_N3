@@ -1,5 +1,6 @@
 #include <stdio.h> 
-#include<math.h>
+#include <math.h>
+#include <calculator_operations.h>
 
           //Logarithm Product Function
 
@@ -66,15 +67,14 @@ void factorial(int n)
 }
                     // Main Function
 
-int main()
+int fact_input(void);
 {
-    float x=-5, y = 0; 
-    int num=6;
+
+    int num;
     
     // Passing parameters 
-    
-    product(x, y); 
-    ratios(x,y);
+    printf("Enter the number for factorial : ");
+    scanf(" %d",num);
     factorial(num);
 
     return 0; 
