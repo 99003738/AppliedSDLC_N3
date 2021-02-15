@@ -33,8 +33,12 @@ float Com_add(float re1, float im1, float re2, float im2)
           printf(" The addition of given complex number is : %f i%f", res1,re2);
           return 0;
 
+}
+float Com_sub(float re1, float re2, float im1, float im2)
+{
 
-
-
-
+}
+float Com_mul(float re1, float re2, float im1, float im2)
+{
+    
 }
