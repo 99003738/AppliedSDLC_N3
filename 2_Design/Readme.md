@@ -60,5 +60,9 @@
 
  ### POWER OF NUMBER
  ![SEQ 1](https://user-images.githubusercontent.com/78868680/107907567-0ecde580-6f7a-11eb-812b-50ecdefec926.PNG)
+ 
+ ### ROOTS OF NUMBER
+ ![SEQ 2](https://user-images.githubusercontent.com/78868680/107907666-49d01900-6f7a-11eb-948e-964bbffd5cec.PNG)
+
 
 
