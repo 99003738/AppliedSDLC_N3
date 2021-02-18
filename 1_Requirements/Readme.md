@@ -49,6 +49,9 @@ TABLE LINK
 ## SWOT ANALYSIS
 ![SWOT-Sample](Link to Pic).
 
+## REQUIREMENTS
+![REQ](https://user-images.githubusercontent.com/78868680/107912386-70934d00-6f84-11eb-8958-56de9756f969.PNG)
+
 # 4W&#39;s and 1&#39;H
 
 ## Who:
@@ -103,6 +106,21 @@ TABLE LINK
  HLR by 99003738 Problem : Complex Number.
 ![HLR_pdf-1](https://user-images.githubusercontent.com/78892310/107872734-51d47e00-6ed2-11eb-9f3e-ee012f3c072f.png)
 
+HLR by 99003737 Problem : Arithmetic Operations.
+![HLR](https://user-images.githubusercontent.com/78848865/107885089-40b15e80-6f1e-11eb-80d3-bf0619376c1c.png)
+ 
+ ## HLR BY 3743
+HLR by 99003743 Problem : POWERS AND ROOTS
+![HLR01](https://user-images.githubusercontent.com/78868680/107905487-c102ae80-6f74-11eb-8ffe-e91b13e3eac7.PNG)
+
+HLR by 99003743 Problem : PLOTTING BASICGRAPH
+![HLR02](https://user-images.githubusercontent.com/78868680/107905830-a1b85100-6f75-11eb-830f-8097a7c664b0.PNG)
+
+
+
+
+
+
 
 
 
@@ -113,5 +131,22 @@ TABLE LINK
 
 LLR by 99003738 Problem : Complex Number.
 ![LLR-1](https://user-images.githubusercontent.com/78892310/107872766-86e0d080-6ed2-11eb-952a-1d6847a9cac6.png)
+
+LLR by 99003737 Problem : Arithmetic Operations.
+![LLR](https://user-images.githubusercontent.com/78848865/107885183-cdf4b300-6f1e-11eb-9f30-69d414e37cba.png)
+
+
+LLR by 99003743 Problem : LLR
+![LOW LEVEL REQUIREMENTS](https://user-images.githubusercontent.com/78868680/107902609-facfb700-6f6c-11eb-896a-10989d7c9d48.jpg)
+
+LLR BY 99003743 PROBLEM: POWERS
+![LLR](https://user-images.githubusercontent.com/78868680/107904359-9400cc80-6f71-11eb-9120-c890807a7de5.PNG)
+
+LLR by 99003743 Problem : SQUARE ROOT
+![LLR2](https://user-images.githubusercontent.com/78868680/107904902-2b1a5400-6f73-11eb-88f4-60e59a6f8612.PNG)
+
+LLR by 99003743 Problem : CUBE ROOT
+![LLR3](https://user-images.githubusercontent.com/78868680/107905031-8c422780-6f73-11eb-8a32-091d01e0aca5.PNG)
+
 
 
