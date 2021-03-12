@@ -48,6 +48,13 @@ int main()
 }*/
 #include"arithmetic_operators.h"
 
+int addition (int operand1,int operand2);
+int subtraction (int operand 1,int operand2);
+int multiplication (int operand1, int operand2);
+int division (int operand 1, int operand2);
+
+
+
 
 
   
