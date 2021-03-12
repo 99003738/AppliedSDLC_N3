@@ -1,4 +1,4 @@
-#include<stdio.h>
+/*#include<stdio.h>
 #include <calculator_operations.h>
 int main()
 {
@@ -45,7 +45,9 @@ int main()
        
         return 0;
     
-}
+}*/
+#include"arithmetic_operators.h"
+
 
 
   
