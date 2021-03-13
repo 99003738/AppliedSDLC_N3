@@ -36,12 +36,15 @@ int main()
 
 void test_squareroot(void) {
   TEST_ASSERT_EQUAL(12, squareroot(144));
-  
+  TEST_ASSERT_EQUAL(10, squareroot(100));
+  TEST_ASSERT_EQUAL(25, squareroot(625));
   /* Dummy fail*/
   //TEST_ASSERT_EQUAL(10, squareroot(400));
 }
 void test_cuberoot(void) {
   TEST_ASSERT_EQUAL(2, cuberoot(8));
+  TEST_ASSERT_EQUAL(3, cuberoot(27));
+  TEST_ASSERT_EQUAL(4, cuberoot(64));
   
   /* Dummy fail*/
   //TEST_ASSERT_EQUAL(10, squareroot(400));
