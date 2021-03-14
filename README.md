@@ -18,15 +18,19 @@ Folder             | Description
 
 PS No. |  Name   |    Features    | Issuess Raised |Issues Resolved|No Test Cases|Test Case Pass
 -------|---------|----------------|----------------|---------------|-------------|--------------
-`ABC` | 12345678  | Feature A, B etc    | X No     | X No   |X No   |X No     
-`DEF` | 12345678  | Feature C, D etc    | X No     | X No   |X No   |X No     
-
+99003737 | Jeshwanth Kumar ega  | Feature: Aithmetic Operations FLoating point airthmetic   |  0   |  2  | 5  | 5   
+99003738 | Abhishek Mishra | Feature: Complex Number, Trignometric Function   | 4     | 3   | 8   | 8   
+99003743 | Yandapalli Priya Mansa | Feature: Index and Shurds, Basic Graph Plotting | 1 | 2 | 3 | 3
+99003746 | Nitin N Shetty | Features: Factorial, Logarithm | 4 | 4 | 9 | 9
 ## Challenges Faced and How Was It Overcome
 
-1. ABC
-2. BCD
-3. ...
-4. ...
+1. Running the make file as its resolved by defining its correct path(.out for linux and -lm for math functions)
+2. Syncronizing the VS code to github , colleague help to resolve the issue
+3. Making the function call in correct path
+4. Open git log while committing, thus went to github desktop and pulled origin and then pushed origin.
+5. Test case code for the boundary problem. Added code with the help of internet
+6. Integration problem since lots of header file was there. Changes made in header file to remove the multiple occurance error.
+
 
 ## Learning Resources
 1. [markdownCheatsheet](https://github.com/adam-p/markdown-here/wiki/Markdown-Cheatsheet)
