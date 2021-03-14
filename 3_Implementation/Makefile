@@ -1,4 +1,4 @@
-# Name of the project
+git # Name of the project
 PROJECT_NAME = Calculator
 
 # Output directory
