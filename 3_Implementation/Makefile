@@ -12,6 +12,8 @@ test/test_arithmetic_operators.c\
 src/arithmetic_operators.c\
 test/test_fact_log.c\
 src/fact_log.c\
+test/testComplex.c\
+src/Complex.c\
 unity/unity.c
 
 
@@ -24,6 +26,8 @@ test/test_arithmetic_operators.c\
 src/arithmetic_operators.c\
 test/test_fact_log.c\
 src/fact_log.c\
+test/testComplex.c\
+src/Complex.c\
 unity/unity.c
 
 TEST_OUTPUT = $(BUILD)/Test_$(PROJECT_NAME).out

@@ -12,6 +12,7 @@ int main()
 {
 UNITY_BEGIN();
 
+test_complex();
 rootTest();
 testArithmetic();
 testFactLog();
