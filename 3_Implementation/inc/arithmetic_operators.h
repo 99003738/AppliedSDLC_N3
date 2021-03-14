@@ -1,5 +1,5 @@
-#ifndef __F_H_
-#define __F_H_
+#ifndef _ARITHMETIC_OPERATORS_H_
+#define _ARITHMETIC_OPERATORS_H_
 
 #include<stdio.h>
 #include<stdlib.h>

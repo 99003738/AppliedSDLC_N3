@@ -1,6 +1,6 @@
 #include "unity.h"
-#include <f.h>
-
+#include "arithmetic_operators.h"
+#include "testMain.h"
 /* Modify these two lines according to the project */
 
 #define PROJECT_NAME    "Calculator"
@@ -12,16 +12,13 @@ void test_subtract(void);
 void test_multiply(void);
 void test_divide(void);
 
-/* Required by the unity test framework */
-void setUp(){}
-/* Required by the unity test framework */
-void tearDown(){}
+
 
 /* Start of the application test */
-int main()
+void testArithmetic()
 {
 /* Initiate the Unity Test Framework */
-  UNITY_BEGIN();
+  
 
 /* Run Test functions */
   RUN_TEST(test_add);
@@ -31,7 +28,7 @@ int main()
   RUN_TEST(test_divide);
 
   /* Close the Unity Test Framework */
-  return UNITY_END();
+  
 }
 
 /* Write all the test functions */ 

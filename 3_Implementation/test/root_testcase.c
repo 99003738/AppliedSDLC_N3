@@ -1,6 +1,6 @@
 #include "unity.h"
 #include "roots_power.h"
-
+#include "testMain.h"
 
 /* Modify these two lines according to the project */
 #define PROJECT_NAME    "Calculator"
@@ -12,16 +12,16 @@ void test_cuberoot(void);
 void test_exponential(void);
 
 
-/* Required by the unity test framework */
+/* Required by the unity test framework
 void setUp(){}
-/* Required by the unity test framework */
-void tearDown(){}
+Required by the unity test framework 
+void tearDown(){}*/
 
 /* Start of the application test */
-int main()
+void rootTest()
 {
 /* Initiate the Unity Test Framework */
-  UNITY_BEGIN();
+  
 
 /* Run Test functions */
   
@@ -30,7 +30,7 @@ int main()
   RUN_TEST(test_exponential);
 
   /* Close the Unity Test Framework */
-  return UNITY_END();
+  
 }
 
 
