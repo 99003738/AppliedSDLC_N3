@@ -63,6 +63,9 @@ run:$(PROJECT_NAME)
 # Document the code using Doxygen
 #doc:
 #	make -C ./documentation
+coverageCheck:$(BUILD)
+	g++ -fprofile-arcs -ftest-coverage -fPIC -O0 $(TEST_SRC) $(INC) -o $(TEST_OUTPUT)
+	./$(TEST_OUTPUT)
 
 # Build and run the unit tests
 test:$(BUILD)
