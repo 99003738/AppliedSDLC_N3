@@ -2,9 +2,9 @@
 
 Visit [Pages for Report -optional](using github.io option)
 
-Build | Cppcheck | Unity | [Git Inspector](using github.io option) | Code Quality Dynamic
-------|----------|-------|--------------|----------------
-[![C/C++ CI - Build Status](https://github.com/99003738/AppliedSDLC_N3/actions/workflows/c-cpp.yml/badge.svg)](https://github.com/99003738/AppliedSDLC_N3/actions/workflows/c-cpp.yml) | [![Cppcheck](https://github.com/99003738/AppliedSDLC_N3/actions/workflows/cppcheck.yml/badge.svg)](https://github.com/99003738/AppliedSDLC_N3/actions/workflows/cppcheck.yml) | [![Unity - Unit Testing](https://github.com/99003738/AppliedSDLC_N3/actions/workflows/unity.yml/badge.svg)](https://github.com/99003738/AppliedSDLC_N3/actions/workflows/unity.yml) | [![Contribution Check - Git Inspector](https://github.com/99003738/AppliedSDLC_N3/actions/workflows/gitinspector.yml/badge.svg)](https://github.com/99003738/AppliedSDLC_N3/actions/workflows/gitinspector.yml) | [![CodeQuality Dynamic Code Analysis Valgrind](https://github.com/99003738/AppliedSDLC_N3/actions/workflows/CodeQuality_Dynamic.yml/badge.svg)](https://github.com/99003738/AppliedSDLC_N3/actions/workflows/CodeQuality_Dynamic.yml)
+Build | Cppcheck | Unity | [Git Inspector](using github.io option) | Code Quality Dynamic | Code Coverage
+------|----------|-------|--------------|------------|-----------
+[![C/C++ CI - Build Status](https://github.com/99003738/AppliedSDLC_N3/actions/workflows/c-cpp.yml/badge.svg)](https://github.com/99003738/AppliedSDLC_N3/actions/workflows/c-cpp.yml) | [![Cppcheck](https://github.com/99003738/AppliedSDLC_N3/actions/workflows/cppcheck.yml/badge.svg)](https://github.com/99003738/AppliedSDLC_N3/actions/workflows/cppcheck.yml) | [![Unity - Unit Testing](https://github.com/99003738/AppliedSDLC_N3/actions/workflows/unity.yml/badge.svg)](https://github.com/99003738/AppliedSDLC_N3/actions/workflows/unity.yml) | [![Contribution Check - Git Inspector](https://github.com/99003738/AppliedSDLC_N3/actions/workflows/gitinspector.yml/badge.svg)](https://github.com/99003738/AppliedSDLC_N3/actions/workflows/gitinspector.yml) | [![CodeQuality Dynamic Code Analysis Valgrind](https://github.com/99003738/AppliedSDLC_N3/actions/workflows/CodeQuality_Dynamic.yml/badge.svg)](https://github.com/99003738/AppliedSDLC_N3/actions/workflows/CodeQuality_Dynamic.yml) | [![CI-Coverage](https://github.com/99003738/AppliedSDLC_N3/actions/workflows/gcov.yml/badge.svg)](https://github.com/99003738/AppliedSDLC_N3/actions/workflows/gcov.yml)
 
 ## Folder Structure
 Folder             | Description
