@@ -4,7 +4,7 @@
 
 #include "unity.h"
 
-
+void test_complex();
 void testFactLog(void);
 void rootTest(void);
 void testArithmetic(void);
