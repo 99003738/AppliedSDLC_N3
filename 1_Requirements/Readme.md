@@ -48,6 +48,7 @@ TABLE LINK
 
 ## SWOT ANALYSIS
 ![SWOT-Sample](Link to Pic).
+![swot](https://user-images.githubusercontent.com/78868680/111101541-25169380-8570-11eb-9972-4f6dddef52af.PNG)
 
 ## REQUIREMENTS
 ![REQ](https://user-images.githubusercontent.com/78868680/107912386-70934d00-6f84-11eb-8958-56de9756f969.PNG)
