@@ -35,6 +35,7 @@ jobs:
         gitinspector.py -wTHl --format=html -f c,h,md,yml,* -x file:3_implementation/unity -x file:doc . > ~/result.html
         echo "======================================"
    #If using gihub io pages feature
+   
    # - name : Update Results to gh-pages
    #   uses: actions/checkout@v2
    #   with:
