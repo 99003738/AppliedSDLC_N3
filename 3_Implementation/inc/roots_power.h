@@ -8,5 +8,5 @@
 void roots();
 double cuberoot(double); //function for cuberoot
 double squareroot(double); //function for squareroot
-double exponential(double);
+double exponential(double); //function for exponential
 #endif
