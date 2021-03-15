@@ -18,9 +18,9 @@ Folder             | Description
 
 PS No. |  Name   |    Features    | Issuess Raised |Issues Resolved|No Test Cases|Test Case Pass
 -------|---------|----------------|----------------|---------------|-------------|--------------
-99003737 | Jeshwanth Kumar ega  | Feature: Aithmetic Operations FLoating point airthmetic   |  0   |  2  | 5  | 5   
+99003737 | Jeshwanth Kumar ega  | Feature: Aithmetic Operations FLoating point airthmetic   |  2   |  2  | 5  | 5   
 99003738 | Abhishek Mishra | Feature: Complex Number, Trignometric Function   | 4     | 3   | 8   | 8   
-99003743 | Yandapalli Priya Mansa | Feature: Index and Shurds, Basic Graph Plotting | 1 | 2 | 3 | 3
+99003743 | Yandapalli Priya Mansa | Feature: Index and Shurds, Basic Graph Plotting | 2 | 2 | 3 | 3
 99003746 | Nitin N Shetty | Features: Factorial, Logarithm | 4 | 4 | 9 | 9
 
 
