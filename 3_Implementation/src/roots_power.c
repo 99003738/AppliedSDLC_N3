@@ -25,7 +25,9 @@
  }
 }while(1);
 }*/
-double squareroot(double input)//squareroot function
+
+//squareroot function
+double squareroot(double input)
 {
 double sqrt_value;
 sqrt_value = sqrt(input);
