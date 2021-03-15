@@ -26,7 +26,8 @@ PS No. |  Name   |    Features    | Issuess Raised |Issues Resolved|No Test Case
 
 ## Contributors Git Inspector Result
 
-![project inspector](https://user-images.githubusercontent.com/78892310/111103250-061a0080-8574-11eb-8c14-f4d5cf25e3f8.PNG)
+![New_project_inspector](https://user-images.githubusercontent.com/78892310/111105380-d7525900-8578-11eb-803a-d18deb0a8360.PNG)
+
 
 
 ## Challenges Faced and How Was It Overcome
