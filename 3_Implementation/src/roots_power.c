@@ -29,23 +29,33 @@
 //squareroot function
 double squareroot(double input)
 {
-double sqrt_value;
+double sqrt_value; 
+   //datatype 
 sqrt_value = sqrt(input);
 return sqrt_value;
+   //returns the squareroot value of the input
 }
 
 
+//cuberoot function
 
-double cuberoot(double input)//cuberoot function
+double cuberoot(double input)
 {
 double cbrt_value;
+   //datatype
 cbrt_value = cbrt(input);
 return cbrt_value;
+   //returns the cuberoot of the input
 }
 
-double exponential(double input)//exponential function
+
+//exponential function
+
+double exponential(double input)
 {
 double exp_value;
+   //datatype 
 exp_value = exp(input);
 return exp_value;
+   //returns the exponential vallue of the given input
 }
