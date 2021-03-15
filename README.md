@@ -24,7 +24,7 @@ PS No. |  Name   |    Features    | Issuess Raised |Issues Resolved|No Test Case
 99003746 | Nitin N Shetty | Features: Factorial, Logarithm | 4 | 4 | 9 | 9
 
 
-## Git Inspector Result
+## Contributors Git Inspector Result
 
 ![project inspector](https://user-images.githubusercontent.com/78892310/111103250-061a0080-8574-11eb-8c14-f4d5cf25e3f8.PNG)
 
