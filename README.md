@@ -22,6 +22,13 @@ PS No. |  Name   |    Features    | Issuess Raised |Issues Resolved|No Test Case
 99003738 | Abhishek Mishra | Feature: Complex Number, Trignometric Function   | 4     | 3   | 8   | 8   
 99003743 | Yandapalli Priya Mansa | Feature: Index and Shurds, Basic Graph Plotting | 1 | 2 | 3 | 3
 99003746 | Nitin N Shetty | Features: Factorial, Logarithm | 4 | 4 | 9 | 9
+
+
+## Git Inspector Result
+
+![project inspector](https://user-images.githubusercontent.com/78892310/111103250-061a0080-8574-11eb-8c14-f4d5cf25e3f8.PNG)
+
+
 ## Challenges Faced and How Was It Overcome
 
 1. Running the make file as its resolved by defining its correct path(.out for linux and -lm for math functions)
